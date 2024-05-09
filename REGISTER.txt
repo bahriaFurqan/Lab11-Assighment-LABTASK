@@ -1,0 +1,9 @@
+Name: Furqan Ahmad, ID: 01-131232-024, Email: ahmedfurqan@gmail.com
+Registered for: OOP
+Registered for: ISE
+Registered for: IS
+
+Name: Sami Shahid, ID: 01-131232-054, Email: Sami@gmail.com
+Registered for: ISE
+Registered for: IS
+
