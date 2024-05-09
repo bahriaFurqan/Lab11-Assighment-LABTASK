@@ -1,0 +1,13 @@
+package task.lab11;
+
+class Course {
+    String courseName;
+
+    public Course(String courseName) {
+        this.courseName = courseName;
+    }
+
+    public String toString() {
+        return this.courseName;
+    }
+}
