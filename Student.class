@@ -1,0 +1,13 @@
+package task.lab11;
+
+class Student {
+    String name;
+    String id;
+    String email;
+
+    public Student(String name, String id, String email) {
+        this.name = name;
+        this.id = id;
+        this.email = email;
+    }
+}
